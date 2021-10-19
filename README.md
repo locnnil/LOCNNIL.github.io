@@ -14,5 +14,5 @@ Some pictures of my website(still in construction)
 
 ![](site_01.jpg)
 
-![](site_02.jpg)
+![](PORTFOLIO_PRINT.jpg)
 
