@@ -1140,6 +1140,42 @@ body > footer .copyrights {
 .skill-percentage.skill-spanish {
   width: 20%;
 }
+/*Skill Docker*/
+.skill-percentage.skill-docker {
+  width: 40%;
+}
+/*Skill Linux Kernel*/
+.skill-percentage.skill-linux-kernel {
+  width: 30%;
+}
+/*Skill Linux Qemu*/
+.skill-percentage.skill-qemu {
+  width: 20%;
+}
+/*Skill Linux Yocto*/
+.skill-percentage.skill-yocto {
+  width: 10%;
+}
+/*Skill Linux Buildroot*/
+.skill-percentage.skill-buildroot {
+  width: 7%;
+}
+/*Skill Cmake*/
+.skill-percentage.skill-cmake {
+  width: 50%;
+}
+/*Skill GNU Make*/
+.skill-percentage.skill-gnu-make {
+  width: 40%;
+}
+/*Skill Ninja*/
+.skill-percentage.skill-ninja {
+  width: 10%;
+}
+/*Skill Autotools*/
+.skill-percentage.skill-autotools {
+  width: 10%;
+}
 /* Skills */
 
 .download-resume {
