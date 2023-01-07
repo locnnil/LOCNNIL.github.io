@@ -80,11 +80,11 @@ a {
   color: #2eca7f;
   text-decoration: none;
   outline: none;
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
-  -ms-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
 }
 
 a:hover {
@@ -1082,58 +1082,62 @@ body > footer .copyrights {
 }
 /* Animate skills on subpage load */
 .pt-page .skill-percentage {
-  -webkit-transition: all 2s ease-in-out;
-  -moz-transition: all 2s ease-in-out;
-  -o-transition: all 2s ease-in-out;
-  -ms-transition: all 2s ease-in-out;
-  transition: all 2s ease-in-out;
+  -webkit-transition: all 5s ease-in-out;
+  -moz-transition: all 5s ease-in-out;
+  -o-transition: all 5s ease-in-out;
+  -ms-transition: all 5s ease-in-out;
+  transition: all 5s ease-in-out;
 }
 .js .pt-page:not(.pt-page-current) .skill-percentage {
   width: 0;
 }
 
-/*Skill 1*/
-.skill-percentage.skill-1 {
-  width: 88%;
+/*Skill Hardware Schematic Project*/
+.skill-percentage.skill-schematic-project {
+  width: 40%;
 }
-/*Skill 2*/
-.skill-percentage.skill-2 {
-  width: 75%;
+/*Skill Hardware Layout Project*/
+.skill-percentage.skill-layout-project {
+  width: 30%;
 }
 /*Skill 3*/
-.skill-percentage.skill-3 {
+.skill-percentage.skill-electromagnetic-compatibility {
+  width: 25%;
+}
+/*Skill C*/
+.skill-percentage.skill-clanguage{
+  width: 98%;
+}
+/*Skill C++*/
+.skill-percentage.skill-cplusplus {
+  width: 91%;
+}
+/*Skill Rust*/
+.skill-percentage.skill-rust {
   width: 60%;
 }
-/*Skill 4*/
-.skill-percentage.skill-4 {
-  width: 95%;
-}
-/*Skill 5*/
-.skill-percentage.skill-5 {
-  width: 75%;
-}
-/*Skill 6*/
-.skill-percentage.skill-6 {
+/*Skill Python*/
+.skill-percentage.skill-python {
   width: 92%;
 }
-/*Skill 7*/
-.skill-percentage.skill-7 {
+/*Skill C#*/
+.skill-percentage.skill-csharp {
   width: 20%;
 }
-/*Skill 8*/
-.skill-percentage.skill-8 {
+/*Skill Portuguese*/
+.skill-percentage.skill-portuguese {
   width: 99%;
 }
-/*Skill 9*/
-.skill-percentage.skill-9 {
+/*Skill English*/
+.skill-percentage.skill-english {
   width: 85%;
 }
-/*Skill 10*/
-.skill-percentage.skill-10 {
+/*Skill French*/
+.skill-percentage.skill-french {
   width: 75%;
 }
-/*Skill 11*/
-.skill-percentage.skill-11 {
+/*Skill Spanish*/
+.skill-percentage.skill-spanish {
   width: 20%;
 }
 /* Skills */
