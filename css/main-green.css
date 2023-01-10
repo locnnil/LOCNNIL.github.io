@@ -1140,6 +1140,10 @@ body > footer .copyrights {
 .skill-percentage.skill-spanish {
   width: 20%;
 }
+/*Skill German*/
+.skill-percentage.skill-german {
+  width: 5%;
+}
 /*Skill Docker*/
 .skill-percentage.skill-docker {
   width: 40%;
